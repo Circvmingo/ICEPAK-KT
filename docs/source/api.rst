@@ -1,15 +1,4 @@
 API
 ===
-AAAAUsage
-=====
 
-.. _installation:
-
-Installation
-------------
-
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+it's ya boi

@@ -1,7 +1,9 @@
 TEST
 ===
 
-.. autosummary::
-   :toctree: generated
+.. _Test Subfolder:
 
-   lumache
+Test Subfolder
+------------
+
+To use Lumache, first install it using pip:
