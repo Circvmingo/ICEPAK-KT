@@ -14,6 +14,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Initial Thoughts
+   Top Menus
    test
