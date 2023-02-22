@@ -1,16 +1,16 @@
-Usage
-=====
+Initial Thoughts
+================
 
-.. _installation:
+.. _Initial Thoughts:
 
-Installation
-------------
+Main Interface
+--------------
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+This software has the capability to be very powerful. However, the
+software is laid out in a rather unintuitive manner. The UI somehow
+looks like a worse version of ANSYS SpaceClaim, there are so many
+sub-windows covering the screen that the software becomes borderline
+unusable, and the viewport navigation is downright atrocious.
 
 Creating recipes
 ----------------
